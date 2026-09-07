@@ -44,7 +44,7 @@ Developed SQL queries to analyze supply chain KPIs, delivery performance, invent
 
 Created an interactive Power BI dashboard to visualize key supply chain metrics and support data-driven decision-making.
 
-![Supply Chain Dashboard](PowerBI_Dashboard/Dashboard_Screenshot.png)
+![Supply Chain Dashboard](05_PowerBI_Dashboard/Dashboard_Screenshot.png)
 
 ## 📊 Key Results
 
